@@ -1,0 +1,26 @@
+{
+  "name": "gka-tpl-svg",
+  "version": "1.0.0",
+  "description": "gka template svg css unique crop sprites",
+  "main": "index.js",
+  "scripts": {},
+  "homepage": "https://github.com/gkajs/gka-tpl-svg",
+  "bugs": {
+    "url": "https://github.com/gkajs/gka-tpl-svg/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gkajs/gka-tpl-svg.git"
+  },
+  "keywords": [
+    "gka",
+    "template",
+    "svg",
+    "css",
+    "unique",
+    "sprites",
+    "crop"
+  ],
+  "author": "joeyguo",
+  "license": "MIT"
+}
