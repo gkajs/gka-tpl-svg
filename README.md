@@ -19,9 +19,7 @@
 # Install
 
 ```sh
-$ sudo npm install -g gka                # install gka
-
-$ sudo npm install -g gka-tpl-svg         # install gka template gka-tpl-svg
+$ npm install -g gka                # install gka
 ```
 
 # Usage
